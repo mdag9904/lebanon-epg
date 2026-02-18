@@ -26,8 +26,20 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build epg.xml
+      - name: Build epg.xml (with LBC debug)
         run: npm run build:epg
+        env:
+          DEBUG_LBC: "1"
+          DEBUG_LBC_DAYS: "1"
+          DEBUG_LBC_SAVE: "1"
+
+      - name: Upload LBC debug files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lbc-debug
+          path: debug/
+          if-no-files-found: ignore
 
       - name: Commit updated epg.xml
         run: |
