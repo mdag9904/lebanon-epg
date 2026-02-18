@@ -152,10 +152,6 @@
     <title lang="en">Mouhafaza 15</title>
     <desc lang="en">تحت سماء واحدة أثقلتها الأزمات، تتقاطع حكايات اللبنانيين مع أنين اللجوء السوري في ملحمةٍ إنسانية تستعرض قسوة التحديات الراهنة. فترصد الأحداث بجرأةٍ بالغة مآسي الفقر، وصراع البقاء، والآمال المعلقة على حبال الانتظار.</desc>
   </programme>
-  <programme start="20260218213000 +0200" stop="20260218230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260218222000 +0200" stop="20260218232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Lobby El Gharam</title>
     <desc lang="en">في ردهات فندق صاخب لا يعرف النوم، تلتقي الدقة المفرطة لـ &apos;رستم&apos; صاحب الفندق، بعناد &apos;شمس&apos; المصممة الهاربة من قيود الزواج، ووسط حفلات زفاف لا تنتهي، وضيوف غريبي الأطوار، ومفارقات غير متوقعة، تنشأ قصة حب استثنائية يغلفها الفوضى والضحك.</desc>
@@ -352,10 +348,6 @@
     <title lang="en">Mouhafaza 15</title>
     <desc lang="en">تحت سماء واحدة أثقلتها الأزمات، تتقاطع حكايات اللبنانيين مع أنين اللجوء السوري في ملحمةٍ إنسانية تستعرض قسوة التحديات الراهنة. فترصد الأحداث بجرأةٍ بالغة مآسي الفقر، وصراع البقاء، والآمال المعلقة على حبال الانتظار.</desc>
   </programme>
-  <programme start="20260219213000 +0200" stop="20260219230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260219213000 +0200" stop="20260219223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -367,6 +359,10 @@
   <programme start="20260219223000 +0200" stop="20260219233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260219230000 +0200" stop="20260219233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260219232000 +0200" stop="20260219235900 +0200" channel="mtvlebanon.lb">
     <title lang="en">Enta W 7azzak Bi Ramadan</title>
@@ -528,10 +524,6 @@
     <title lang="en">Kell El Ossa</title>
     <desc lang="en">Kel El Ossa is a dynamic talk show that brings together seven anchors, each specializing in a different field, to deliver diverse perspectives on the latest news and trends. Covering social issues, politics, fashion, sports, and more, the program offers viewers a complete picture of current events.</desc>
   </programme>
-  <programme start="20260220213000 +0200" stop="20260220230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260220213000 +0200" stop="20260220223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -539,6 +531,10 @@
   <programme start="20260220223000 +0200" stop="20260220233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260220230000 +0200" stop="20260220233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260220232000 +0200" stop="20260220235900 +0200" channel="mtvlebanon.lb">
     <title lang="en">Farid</title>
@@ -708,10 +704,6 @@
     <title lang="en">Decathlon Lebanese Basketball League</title>
     <desc lang="en">The Decathlon Lebanese Basketball League is the official Men’s Division 1 Championship in Lebanon, where the country’s top basketball teams compete for the national title. With high-level performances, fierce rivalries, and passionate fans, the league represents the pinnacle of Lebanese basketball and the ultimate stage for the nation’s best talent</desc>
   </programme>
-  <programme start="20260221213000 +0200" stop="20260221230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260221213000 +0200" stop="20260221223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -719,6 +711,10 @@
   <programme start="20260221223000 +0200" stop="20260221233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260221230000 +0200" stop="20260221233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260221233000 +0200" stop="20260222001500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
@@ -872,10 +868,6 @@
     <title lang="en">Let&apos;s Dabke</title>
     <desc lang="en">&quot;Let&apos;s Dabke&quot; is a dynamic competition show that brings together top dabke groups from across Lebanon in a vibrant celebration of rhythm, culture, and tradition. The program showcases the beauty of Lebanese dabke, the diversity of its styles, and the artistic talents of each team through powerful live performances judged by a panel of experts and special folkloric guests. Each episode features intense challenges, creative choreography, and high-energy displays as teams compete to impress the audience and move closer to the title. A tribute to Lebanese heritage, “Yalla Nendbok” blends art, competition, and cultural pride into one unforgettable experience.</desc>
   </programme>
-  <programme start="20260222213000 +0200" stop="20260222230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260222213000 +0200" stop="20260222223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -883,6 +875,10 @@
   <programme start="20260222223000 +0200" stop="20260222233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260222230000 +0200" stop="20260222233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260222233000 +0200" stop="20260223000000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
@@ -1048,10 +1044,6 @@
     <title lang="en">One Love</title>
     <desc lang="en">“Sharab El Toot (One Love)” is a Turkish-drama series about a modern, idealistic woman named Sherine who raises her two daughters according to her own beliefs and values. Her younger daughter Bessan is still in high school, while her older daughter Rolla studies dentistry at university. Sherine faces a major conflict when Rolla marries a man named Fatih from a devout, conservative family—one whose values clash strongly with Sherine’s own ideals. As the two families attempt to coexist, tensions escalate. Differences in beliefs, expectations, and traditions create ongoing drama. Secrets, power struggles, and emotional turmoil begin to unravel, testing loyalties, love, and the strength of family bonds. It’s a story about love, cultural clash, generational conflict, and how far one will go to protect one’s family and principles.</desc>
   </programme>
-  <programme start="20260223213000 +0200" stop="20260223230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260223213000 +0200" stop="20260223223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -1063,6 +1055,10 @@
   <programme start="20260223223000 +0200" stop="20260223233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260223230000 +0200" stop="20260223233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260223232000 +0200" stop="20260223235900 +0200" channel="mtvlebanon.lb">
     <title lang="en">Farid</title>
@@ -1232,10 +1228,6 @@
     <title lang="en">Ktir Hal2ad</title>
     <desc lang="en">A weekly satirical late night show that covers political and social topics in Lebanon and the world. Presented by Hisham Haddad, the show hosts artists, politicians, media personalities and social media influencers, where they take part in fun challenges and games. &quot;Ktir Hal A&amp;aacute;d&quot; (That’s too much) broadcasts every Tuesday at 9:30 pm on MTV.</desc>
   </programme>
-  <programme start="20260224213000 +0200" stop="20260224230000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Special Episode</title>
-    <desc lang="en">Special episodes with political, social, economic and artistic figures shown on LBCI</desc>
-  </programme>
   <programme start="20260224213000 +0200" stop="20260224223000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
@@ -1243,6 +1235,10 @@
   <programme start="20260224223000 +0200" stop="20260224233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260224230000 +0200" stop="20260224233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Late Night News</title>
+    <desc lang="en">A full recap of the political, security and social news in Lebanon and the world produced in an evening news bulletin at 11:00 PM</desc>
   </programme>
   <programme start="20260224232000 +0200" stop="20260224235900 +0200" channel="mtvlebanon.lb">
     <title lang="en">Farid</title>
