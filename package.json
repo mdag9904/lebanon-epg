@@ -1,0 +1,15 @@
+{
+  "name": "lebanon-epg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EPG (XMLTV) generator for MTV Lebanon and LBCI (Beirut time), published to GitHub Pages.",
+  "type": "module",
+  "scripts": {
+    "build:epg": "node scripts/build-epg.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "luxon": "^3.5.0",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
