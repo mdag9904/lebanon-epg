@@ -11,11 +11,39 @@ async function fetchJson(url) {
 
 /**
  * Returns mapping like: { Monday: 6, Tuesday: 7, ... }
+ * Tries /days first, then /daysand, then falls back to known IDs.
  */
 export async function getMtvDayMap() {
-  const days = await fetchJson(`${BASE}/daysand`);
+  const candidates = [`${BASE}/days`, `${BASE}/daysand`];
+
+  let days = null;
+  for (const url of candidates) {
+    try {
+      const data = await fetchJson(url);
+      if (Array.isArray(data) && data.length) {
+        days = data;
+        break;
+      }
+    } catch {
+      // try next candidate
+    }
+  }
+
+  // Hard fallback so builds don't break if MTV changes/blocks an endpoint.
+  const fallback = [
+    { Title: "Monday", Id: 6 },
+    { Title: "Tuesday", Id: 7 },
+    { Title: "Wednesday", Id: 8 },
+    { Title: "Thursday", Id: 9 },
+    { Title: "Friday", Id: 10 },
+    { Title: "Saturday", Id: 11 },
+    { Title: "Sunday", Id: 12 }
+  ];
+
+  const list = Array.isArray(days) && days.length ? days : fallback;
+
   const map = {};
-  for (const d of days) map[d.Title] = d.Id;
+  for (const d of list) map[d.Title] = d.Id;
   return map;
 }
 
@@ -35,8 +63,13 @@ export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
 
   // Map Luxon weekday (1=Mon..7=Sun) to the MTV dayId
   const weekdayToTitle = {
-    1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday",
-    5: "Friday", 6: "Saturday", 7: "Sunday"
+    1: "Monday",
+    2: "Tuesday",
+    3: "Wednesday",
+    4: "Thursday",
+    5: "Friday",
+    6: "Saturday",
+    7: "Sunday"
   };
 
   const now = DateTime.now().setZone(ZONE).startOf("day");
