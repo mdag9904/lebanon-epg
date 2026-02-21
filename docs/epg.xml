@@ -8,174 +8,6 @@
     <display-name>LBC International UHD</display-name>
     <icon src="http://portal-iptv.net:8080/images/LDC_LBC_int.png"/>
   </channel>
-  <programme start="20260220001500 +0200" stop="20260220010000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Arous Beirut</title>
-    <desc lang="en">Arous Beirut</desc>
-  </programme>
-  <programme start="20260220010000 +0200" stop="20260220030000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Shams Al Sabah</title>
-    <desc lang="en">Program covering various health topics, focusing on the latest fashion and beauty trends, and featuring cultural, social, political, economic, and sports segments with experts and specialists who discuss various issues that touch viewers&apos; interests in various aspects of life.</desc>
-  </programme>
-  <programme start="20260220030000 +0200" stop="20260220043000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Nharkom Said</title>
-    <desc lang="en">A daily morning talk show magazine that highlights political and security developments through hosting politicians, analysts and civil society activists.</desc>
-  </programme>
-  <programme start="20260220043000 +0200" stop="20260220070000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Morning Talk</title>
-    <desc lang="en">A new morning talk show aired everyday. It offers a thoughtful and insightful source of news and information to our daily audience and it highlights the achievements of Lebanese people around the world.</desc>
-  </programme>
-  <programme start="20260220070000 +0200" stop="20260220073000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Video Clips</title>
-    <desc lang="en">The program Video clips includes a huge range of the newest video clipsof your favorite singers.</desc>
-  </programme>
-  <programme start="20260220073000 +0200" stop="20260220080000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Press Review</title>
-    <desc lang="en">Daily roundup of major newspaper headlines and stories of the day.</desc>
-  </programme>
-  <programme start="20260220073000 +0200" stop="20260220080000 +0200" channel="lbcinternational.lb">
-    <title lang="en">2:30pm news</title>
-    <desc lang="en">A quick review of local and international events produced by LBCI hub at 2:30 PM.</desc>
-  </programme>
-  <programme start="20260220080000 +0200" stop="20260220083500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Morning News</title>
-    <desc lang="en">Start your day with all the important developments through the morning bulletin</desc>
-  </programme>
-  <programme start="20260220080000 +0200" stop="20260220100000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Catchy Talk</title>
-    <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
-  </programme>
-  <programme start="20260220083500 +0200" stop="20260220085000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Up to Date</title>
-    <desc lang="en">Daily hottest news in Lebanon and around the world from Monday to Friday at 8:30 am.</desc>
-  </programme>
-  <programme start="20260220085000 +0200" stop="20260220091000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Get ready to our exciting sports classes every Monday, Wednesday and Saturday.</desc>
-  </programme>
-  <programme start="20260220091000 +0200" stop="20260220095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">BE Positive</title>
-    <desc lang="en">Since we are living actually a life full of stress, pollution, wars, we are having economical, political, social and ecological problems, we have a big lack of motivation. Our main purpose which is awareness and positivity to help our viewers work on their self motivation and self empowerment. Be positive is broadcasted every Saturday at 12:30 pm.</desc>
-  </programme>
-  <programme start="20260220095000 +0200" stop="20260220100500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
-  </programme>
-  <programme start="20260220100000 +0200" stop="20260220104500 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
-  </programme>
-  <programme start="20260220100500 +0200" stop="20260220105000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">Shedding light on trending and interesting events and stories on Monday,Wednesday and Fridays at 11:45 am.</desc>
-  </programme>
-  <programme start="20260220104500 +0200" stop="20260220114500 +0200" channel="lbcinternational.lb">
-    <title lang="en">Al Sabe&apos;e</title>
-    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
-  </programme>
-  <programme start="20260220105000 +0200" stop="20260220114500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260220114500 +0200" stop="20260220115500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
-  </programme>
-  <programme start="20260220114500 +0200" stop="20260220124500 +0200" channel="lbcinternational.lb">
-    <title lang="en">Arous Beirut</title>
-    <desc lang="en">Arous Beirut</desc>
-  </programme>
-  <programme start="20260220115500 +0200" stop="20260220121500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">Shedding light on trending and interesting events and stories on Monday,Wednesday and Fridays at 11:45 am.</desc>
-  </programme>
-  <programme start="20260220121500 +0200" stop="20260220130000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
-  <programme start="20260220124500 +0200" stop="20260220133000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Nightly News Bulletin</title>
-    <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260220130000 +0200" stop="20260220140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Fashion and Trends</title>
-    <desc lang="en">Fashion and Trends</desc>
-  </programme>
-  <programme start="20260220133000 +0200" stop="20260220150000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Akram mn Meen</title>
-    <desc lang="en">An entertainment program that includes competitions, challenges, prizes and gifts. Will air daily during the holy month of Ramadan with Wissam Hanna.</desc>
-  </programme>
-  <programme start="20260220140000 +0200" stop="20260220150000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Midday News</title>
-    <desc lang="en">The midday bulletin that keeps you up to date on all political, social, economic and sport events</desc>
-  </programme>
-  <programme start="20260220150000 +0200" stop="20260220163000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Beirut Al Yawm</title>
-    <desc lang="en">Daily political roundup with guests that give you the hour&apos;s latest news</desc>
-  </programme>
-  <programme start="20260220150000 +0200" stop="20260220160000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Al Ameel</title>
-    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
-  </programme>
-  <programme start="20260220160000 +0200" stop="20260220165900 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
-  </programme>
-  <programme start="20260220163000 +0200" stop="20260220171500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Salon Zahra</title>
-    <desc lang="en">تدور أحداث الجزء الأول من &quot;صالون زهرة&quot; في حيٍّ شعبي تفتتح فيه &quot;زهرة&quot;، التي تلعب دورها الممثلة نادين نسيب نجيم، صالوناً للتجميل يُمنع دخول الرجال إليه ليكون مكاناً تجتمع فيه سيدات الحي ليتبادلن الأحاديث والأسرار، لكن وصول دفعة من الكراسي إلى الصالون عن طريق الخطأ تغير كل شيء وتقلب حياة &quot;زهرة&quot; رأساً على عقب.</desc>
-  </programme>
-  <programme start="20260220170000 +0200" stop="20260220180000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Al Sabe&apos;e</title>
-    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
-  </programme>
-  <programme start="20260220171500 +0200" stop="20260220173000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">AL Tuffah Al Haram</title>
-    <desc lang="en">مسلسل &quot;التفاح الحرام&quot; (Yasak Elma) هو دراما تركية اجتماعية شهيرة تدور أحداثها في إسطنبول، تركز على الصراع بين الحب والطموح والثراء. تدور القصة حول &quot;يلديز&quot; وشقيقتها &quot;زينب&quot; اللتين تعيشان حياة مختلفة وتتداخل حياتهما مع شخصيات ثرية مثل &quot;خالد أرغون&quot; و&quot;أندر&quot;، حيث تتشابك المؤامرات والمكائد عبر مواسمه الستة.</desc>
-  </programme>
-  <programme start="20260220173000 +0200" stop="20260220180000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Aa Awlet l Matal</title>
-    <desc lang="en">Aa Awlet l Matal is a daily program aired during the month of Ramadan. In each episode, it highlights a well-known traditional proverb, explaining its meaning, origins, and story, and connects it to our present-day reality in a simple and relatable way. The program aims to revive traditional proverbs and showcase their wisdom by presenting real-life examples that reflect their continued influence on our daily lives.</desc>
-  </programme>
-  <programme start="20260220180000 +0200" stop="20260220184500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Al Nesyan</title>
-    <desc lang="en">تدور الأحداث حول زوجين يعيشان حياة سعيدة برفقة ولديهما، إلى حين وقوع حادث يقلب حياتهم رأسًا على عقب، حيث يُختطف ابنيهما فيحاولان البحث عنهما لإعادة لم شمل الأسرة من جديد.</desc>
-  </programme>
-  <programme start="20260220184500 +0200" stop="20260220200000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Farid</title>
-    <desc lang="en">The Turkish series &quot;Ferid&quot; (dubbed) follows the story of a reckless young man, the grandson of Khalis Agha, a prominent figure in Antep. Due to his bad behavior, the grandfather decides to marry him off to Serin, a well-respected girl, sparking thrilling and intriguing events.</desc>
-  </programme>
-  <programme start="20260220200000 +0200" stop="20260220203000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Prime Time News</title>
-    <desc lang="en">The evening bulletin that provides you with a complete news roundup of the day in reports and fixed segments</desc>
-  </programme>
-  <programme start="20260220203000 +0200" stop="20260220213000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Bel Haram</title>
-    <desc lang="en">وسط أضواء المسرح الجوال وخلف كواليسه المتهالكة، تضرب المأساة عالم &quot;جود&quot; الصغير، لتجد نفسها وحيدة في مواجهة ماضٍ مثخن بالجراح وحاضرٍ لا يرحم. ومع كل عرضٍ تقدمه الفرقة، تتشابك خيوط الخسارة مع البحث عن عدالة غائبة، في رحلة محفوفة بالمخاطر لكشف حقيقةٍ مدفونة كانت أشد قسوة وخطورة مما تخيلت. هل ينجح سحر المسرح في تضميد جراحها، أم أن الستار سيسدل على حقيقة تنهي كل آمالها؟</desc>
-  </programme>
-  <programme start="20260220213000 +0200" stop="20260220222000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Mouhafaza 15</title>
-    <desc lang="en">Beneath a sky weighed down by crisis, the stories of the Lebanese intertwine with the sorrow of Syrian refugees in a human saga that reveals the harshness of today’s challenges. The events boldly portray the pain of poverty, the struggle to</desc>
-  </programme>
-  <programme start="20260220222000 +0200" stop="20260220232000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Lobby El Gharam</title>
-    <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
-  </programme>
-  <programme start="20260220223000 +0200" stop="20260220233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
-  </programme>
-  <programme start="20260220232000 +0200" stop="20260220235900 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Enta W 7azzak Bi Ramadan</title>
-    <desc lang="en">Enta w Hazzak Bi Ramadan&quot; is an entertaining Ramadan competition show, presented by Elie Chemaly. It features a live audience, thrilling contests, and interactive phone calls, allowing viewers to participate from home. The program offers valuable prizes and significant cash rewards to the winners. Adding to the surprises, a celebrity guest joins the show every day</desc>
-  </programme>
-  <programme start="20260220233000 +0200" stop="20260221001500 +0200" channel="lbcinternational.lb">
-    <title lang="en">Al Sabe&apos;e</title>
-    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
-  </programme>
-  <programme start="20260220235900 +0200" stop="20260221005900 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Midnight News</title>
-    <desc lang="en">Midnight News</desc>
-  </programme>
   <programme start="20260221001500 +0200" stop="20260221010000 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
@@ -216,69 +48,29 @@
     <title lang="en">Catchy Talk</title>
     <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
   </programme>
-  <programme start="20260221083500 +0200" stop="20260221091000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Heritage and Culture</title>
-    <desc lang="en">The segment will explore the history of Lebanon and the world, additionally it will discuss the most influential milestones and link them to the present. It will also highlight prominent figures in politics, science, arts and culture. The segment is hosted by Dr. Imad Mrad and broadcasted every Sunday at 10:30 am.</desc>
+  <programme start="20260221083500 +0200" stop="20260221140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260221090000 +0200" stop="20260221100000 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Masar</title>
     <desc lang="en">A talk show hosted by Rodolph Hilal, featuring celebrities and stars discussing most important stages of their personal and professional lives.</desc>
   </programme>
-  <programme start="20260221091000 +0200" stop="20260221093000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260221093000 +0200" stop="20260221095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
-  </programme>
-  <programme start="20260221095000 +0200" stop="20260221100500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Couples</title>
-    <desc lang="en">Everything you need to know about couples’ lives is presented to you by specialists every Friday at 9:30 am.</desc>
-  </programme>
   <programme start="20260221100000 +0200" stop="20260221104500 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
-  </programme>
-  <programme start="20260221100500 +0200" stop="20260221102000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Nature</title>
-    <desc lang="en">Nature is the &quot;Green&quot; segment of MTV Alive; in addition to ecological and environmental advice, Marc Beyrouti will give you tips on keeping your garden and your indoor plants blooming all through the year every Tuesday, Thursday and Saturday at 10:15 am.</desc>
-  </programme>
-  <programme start="20260221102000 +0200" stop="20260221112500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
   </programme>
   <programme start="20260221104500 +0200" stop="20260221114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
   </programme>
-  <programme start="20260221112500 +0200" stop="20260221114500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260221114500 +0200" stop="20260221121000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
-  </programme>
   <programme start="20260221114500 +0200" stop="20260221124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
   </programme>
-  <programme start="20260221121000 +0200" stop="20260221121500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
-  <programme start="20260221121500 +0200" stop="20260221131000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">My Rights</title>
-    <desc lang="en">This segment discusses legal issues and helps the Lebanese citizen learn about his/her rights under the difficult circumstances he/she is living in. My rights is presented every Saturday at 10:30 am.</desc>
-  </programme>
   <programme start="20260221124500 +0200" stop="20260221133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
     <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260221131000 +0200" stop="20260221140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Wall of Fame</title>
-    <desc lang="en">Wall of Fame is where international and local celebrities and famous public figures from different fields are hosted. The segment is broadcasted every Saturday and Sunday at 1:15 pm.</desc>
   </programme>
   <programme start="20260221133000 +0200" stop="20260221150000 +0200" channel="lbcinternational.lb">
     <title lang="en">Akram mn Meen</title>
@@ -316,10 +108,6 @@
     <title lang="en">Al Nesyan</title>
     <desc lang="en">تدور الأحداث حول زوجين يعيشان حياة سعيدة برفقة ولديهما، إلى حين وقوع حادث يقلب حياتهم رأسًا على عقب، حيث يُختطف ابنيهما فيحاولان البحث عنهما لإعادة لم شمل الأسرة من جديد.</desc>
   </programme>
-  <programme start="20260221180000 +0200" stop="20260221200000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Catchy Talk</title>
-    <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
-  </programme>
   <programme start="20260221184500 +0200" stop="20260221200000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Farid</title>
     <desc lang="en">The Turkish series &quot;Ferid&quot; (dubbed) follows the story of a reckless young man, the grandson of Khalis Agha, a prominent figure in Antep. Due to his bad behavior, the grandfather decides to marry him off to Serin, a well-respected girl, sparking thrilling and intriguing events.</desc>
@@ -327,10 +115,6 @@
   <programme start="20260221200000 +0200" stop="20260221203000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Prime Time News</title>
     <desc lang="en">The evening bulletin that provides you with a complete news roundup of the day in reports and fixed segments</desc>
-  </programme>
-  <programme start="20260221200000 +0200" stop="20260221213000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Akram mn Meen</title>
-    <desc lang="en">An entertainment program that includes competitions, challenges, prizes and gifts. Will air daily during the holy month of Ramadan with Wissam Hanna.</desc>
   </programme>
   <programme start="20260221203000 +0200" stop="20260221213000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Bel Haram</title>
@@ -347,10 +131,6 @@
   <programme start="20260221222000 +0200" stop="20260221232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Lobby El Gharam</title>
     <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
-  </programme>
-  <programme start="20260221223000 +0200" stop="20260221233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
   <programme start="20260221223000 +0200" stop="20260221233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -396,13 +176,17 @@
     <title lang="en">2:30pm news</title>
     <desc lang="en">A quick review of local and international events produced by LBCI hub at 2:30 PM.</desc>
   </programme>
-  <programme start="20260222080000 +0200" stop="20260222102000 +0200" channel="mtvlebanon.lb">
+  <programme start="20260222080000 +0200" stop="20260222083500 +0200" channel="mtvlebanon.lb">
     <title lang="en">Morning News</title>
     <desc lang="en">Start your day with all the important developments through the morning bulletin</desc>
   </programme>
   <programme start="20260222080000 +0200" stop="20260222090000 +0200" channel="lbcinternational.lb">
     <title lang="en">Hikmat Abu Zayd on Power, Legacy &amp; the Leaders of His Time</title>
     <desc lang="en">Untold stories &amp; behind the scenes secrets... Journalist Hikmat Abu Zayd shares for the first time!</desc>
+  </programme>
+  <programme start="20260222083500 +0200" stop="20260222140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260222090000 +0200" stop="20260222100000 +0200" channel="lbcinternational.lb">
     <title lang="en">Eendi Soual</title>
@@ -412,45 +196,13 @@
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
-  <programme start="20260222102000 +0200" stop="20260222103000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Up to Date</title>
-    <desc lang="en">Daily hottest news in Lebanon and around the world from Monday to Friday at 8:30 am.</desc>
-  </programme>
-  <programme start="20260222103000 +0200" stop="20260222104000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Heritage and Culture</title>
-    <desc lang="en">The segment will explore the history of Lebanon and the world, additionally it will discuss the most influential milestones and link them to the present. It will also highlight prominent figures in politics, science, arts and culture. The segment is hosted by Dr. Imad Mrad and broadcasted every Sunday at 10:30 am.</desc>
-  </programme>
-  <programme start="20260222104000 +0200" stop="20260222110000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Cinema</title>
-    <desc lang="en">this segment will guide you to choose the movie you want to watch this week. Elias Doummar will give you all the info every Saturday.</desc>
-  </programme>
   <programme start="20260222104500 +0200" stop="20260222114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
   </programme>
-  <programme start="20260222110000 +0200" stop="20260222112500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Mr Gourmet</title>
-    <desc lang="en">Mr Gourmet is ready every Sunday at 10:30am to give you all the info about the tastiest food and drinks</desc>
-  </programme>
-  <programme start="20260222112500 +0200" stop="20260222114500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260222114500 +0200" stop="20260222123000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Musical</title>
-    <desc lang="en">Ghassan Yammine about different music styles (classical, opera, jazz, blues, rock, pop, funk, oriental, world music...), composers, instruments, musicians,... with live music... Every Sunday at noon.</desc>
-  </programme>
   <programme start="20260222114500 +0200" stop="20260222124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
-  </programme>
-  <programme start="20260222123000 +0200" stop="20260222124500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Wall of Fame</title>
-    <desc lang="en">Wall of Fame is where international and local celebrities and famous public figures from different fields are hosted. The segment is broadcasted every Saturday and Sunday at 1:15 pm.</desc>
-  </programme>
-  <programme start="20260222124500 +0200" stop="20260222140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Mechwar</title>
-    <desc lang="en">Anthony Rahayel takes us in a beautiful journey. It&apos;s not just about food, promoting the beautiful Lebanon is the aim of this segment you may watch every Sunday at 11:45 am.</desc>
   </programme>
   <programme start="20260222124500 +0200" stop="20260222133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
@@ -524,13 +276,13 @@
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
+  <programme start="20260222213000 +0200" stop="20260222223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
   <programme start="20260222222000 +0200" stop="20260222232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Lobby El Gharam</title>
     <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
-  </programme>
-  <programme start="20260222223000 +0200" stop="20260222233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
   <programme start="20260222223000 +0200" stop="20260222233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -584,17 +336,9 @@
     <title lang="en">Catchy Talk</title>
     <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
   </programme>
-  <programme start="20260223083500 +0200" stop="20260223091000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Get ready to our exciting sports classes every Monday, Wednesday and Saturday.</desc>
-  </programme>
-  <programme start="20260223091000 +0200" stop="20260223095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">BE Positive</title>
-    <desc lang="en">Since we are living actually a life full of stress, pollution, wars, we are having economical, political, social and ecological problems, we have a big lack of motivation. Our main purpose which is awareness and positivity to help our viewers work on their self motivation and self empowerment. Be positive is broadcasted every Saturday at 12:30 pm.</desc>
-  </programme>
-  <programme start="20260223095000 +0200" stop="20260223104000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Technology</title>
-    <desc lang="en">The high tech magazine brings to you the latest inventions, applications and video games from Monday to Friday at 8:45 am. Technology is hosted by Fady Semaan and Jad Khatib.</desc>
+  <programme start="20260223083500 +0200" stop="20260223140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260223095500 +0200" stop="20260223100000 +0200" channel="lbcinternational.lb">
     <title lang="en">Yawmiyeh</title>
@@ -604,33 +348,13 @@
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
-  <programme start="20260223104000 +0200" stop="20260223110000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
-  </programme>
   <programme start="20260223104500 +0200" stop="20260223114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
   </programme>
-  <programme start="20260223110000 +0200" stop="20260223113500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
-  <programme start="20260223113500 +0200" stop="20260223115500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
   <programme start="20260223114500 +0200" stop="20260223123000 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
-  </programme>
-  <programme start="20260223115500 +0200" stop="20260223123000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
-  </programme>
-  <programme start="20260223123000 +0200" stop="20260223130000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Book</title>
-    <desc lang="en">.جولة على أحدث الاصدارات بالعربية، الفرنسية و الانكليزية بالاضافة الى استضافة الكتّاب و الشعراء، كل ثلاثاء عند الثانية عشرة و النصف</desc>
   </programme>
   <programme start="20260223123000 +0200" stop="20260223124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Loto</title>
@@ -639,10 +363,6 @@
   <programme start="20260223124500 +0200" stop="20260223133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
     <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260223130000 +0200" stop="20260223140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Stars</title>
-    <desc lang="en">The latest news about local and international stars are shown every Tuesday, Thursday and Saturday at 12:15 pm.</desc>
   </programme>
   <programme start="20260223133000 +0200" stop="20260223150000 +0200" channel="lbcinternational.lb">
     <title lang="en">Akram mn Meen</title>
@@ -708,13 +428,13 @@
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
+  <programme start="20260223213000 +0200" stop="20260223223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
   <programme start="20260223222000 +0200" stop="20260223232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Heyde Ossteh</title>
     <desc lang="en">This one-on-one talk show brings a celebrity or public figure into a raw, intimate conversation with a psychologist and life coach. Set in a minimal space with no distractions—just two chairs, soft lighting, and honesty—the format strips away glamour to reveal the human behind the fame.</desc>
-  </programme>
-  <programme start="20260223223000 +0200" stop="20260223233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
   <programme start="20260223223000 +0200" stop="20260223233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -768,69 +488,25 @@
     <title lang="en">Catchy Talk</title>
     <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
   </programme>
-  <programme start="20260224083500 +0200" stop="20260224091000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Up to Date</title>
-    <desc lang="en">Daily hottest news in Lebanon and around the world from Monday to Friday at 8:30 am.</desc>
-  </programme>
-  <programme start="20260224091000 +0200" stop="20260224095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Get ready to our exciting sports classes every Monday, Wednesday and Saturday.</desc>
-  </programme>
-  <programme start="20260224095000 +0200" stop="20260224100500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Family</title>
-    <desc lang="en">A beautiful segment that deals with all family related issues : from pregnancy to delivery, to education, choosing the best day care, the best school... again, experts in different fields. Family is broadcasted from Monday to Thursday at 9:30 am.</desc>
+  <programme start="20260224083500 +0200" stop="20260224140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260224100000 +0200" stop="20260224104500 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
-  <programme start="20260224100500 +0200" stop="20260224102000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
-  </programme>
-  <programme start="20260224102000 +0200" stop="20260224104000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Nature</title>
-    <desc lang="en">Nature is the &quot;Green&quot; segment of MTV Alive; in addition to ecological and environmental advice, Marc Beyrouti will give you tips on keeping your garden and your indoor plants blooming all through the year every Tuesday, Thursday and Saturday at 10:15 am.</desc>
-  </programme>
-  <programme start="20260224104000 +0200" stop="20260224110000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Technology</title>
-    <desc lang="en">The high tech magazine brings to you the latest inventions, applications and video games from Monday to Friday at 8:45 am. Technology is hosted by Fady Semaan and Jad Khatib.</desc>
-  </programme>
   <programme start="20260224104500 +0200" stop="20260224114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
-  </programme>
-  <programme start="20260224110000 +0200" stop="20260224113500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260224113500 +0200" stop="20260224114500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
-  </programme>
-  <programme start="20260224114500 +0200" stop="20260224121500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Beauty by Leila Obeid</title>
-    <desc lang="en">The Beauty specialsist Layla Obeid is ready to answer your questions and give you her beauty tips every Tuesday and Thursday at noon.</desc>
   </programme>
   <programme start="20260224114500 +0200" stop="20260224124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
   </programme>
-  <programme start="20260224121500 +0200" stop="20260224123000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">In Town</title>
-    <desc lang="en">In Town is an agenda style show to help people choose a destination to visit inside Lebanon: restaurants, pubs, nightclubs, resorts, activities and hotels, in addition to promoting new products and materials in the Lebanese markets.</desc>
-  </programme>
-  <programme start="20260224123000 +0200" stop="20260224130000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
   <programme start="20260224124500 +0200" stop="20260224133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
     <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260224130000 +0200" stop="20260224140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">El Hal Enna</title>
-    <desc lang="en">It is a social program that receives complaints from citizens and follows them with officials in order to find solutions to all issues</desc>
   </programme>
   <programme start="20260224133000 +0200" stop="20260224150000 +0200" channel="lbcinternational.lb">
     <title lang="en">Akram mn Meen</title>
@@ -892,9 +568,9 @@
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
-  <programme start="20260224223000 +0200" stop="20260224233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  <programme start="20260224213000 +0200" stop="20260224223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
   <programme start="20260224223000 +0200" stop="20260224233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -948,65 +624,25 @@
     <title lang="en">Catchy Talk</title>
     <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
   </programme>
-  <programme start="20260225083500 +0200" stop="20260225091000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Up to Date</title>
-    <desc lang="en">Daily hottest news in Lebanon and around the world from Monday to Friday at 8:30 am.</desc>
-  </programme>
-  <programme start="20260225091000 +0200" stop="20260225091500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Get ready to our exciting sports classes every Monday, Wednesday and Saturday.</desc>
-  </programme>
-  <programme start="20260225091500 +0200" stop="20260225095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Family</title>
-    <desc lang="en">A beautiful segment that deals with all family related issues : from pregnancy to delivery, to education, choosing the best day care, the best school... again, experts in different fields. Family is broadcasted from Monday to Thursday at 9:30 am.</desc>
-  </programme>
-  <programme start="20260225095000 +0200" stop="20260225100500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
+  <programme start="20260225083500 +0200" stop="20260225140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260225100000 +0200" stop="20260225104500 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
-  <programme start="20260225100500 +0200" stop="20260225103000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Technology</title>
-    <desc lang="en">The high tech magazine brings to you the latest inventions, applications and video games from Monday to Friday at 8:45 am. Technology is hosted by Fady Semaan and Jad Khatib.</desc>
-  </programme>
-  <programme start="20260225103000 +0200" stop="20260225110000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Pets</title>
-    <desc lang="en">Get the most up-to-date pet care information from experts in behavior, nutrition, poison control, veterinary medicine and the human-animal bond, every Monday at 12:30 pm, hosted by Pamela Fannoun</desc>
-  </programme>
   <programme start="20260225104500 +0200" stop="20260225114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
-  </programme>
-  <programme start="20260225110000 +0200" stop="20260225113500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Whats Cooking</title>
-    <desc lang="en">Our Best Chefs are ready to give you daily delicious recipes at 11 am.</desc>
-  </programme>
-  <programme start="20260225113500 +0200" stop="20260225115000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
   </programme>
   <programme start="20260225114500 +0200" stop="20260225124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
   </programme>
-  <programme start="20260225115000 +0200" stop="20260225120500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Round Up</title>
-    <desc lang="en">The segment is all about what’s happening on all social media platforms around the world and in Lebanon. Roudup is broadcasted every Saturday at 9:45 am, and is hosted by Christelle Saade. .</desc>
-  </programme>
-  <programme start="20260225120500 +0200" stop="20260225130000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
   <programme start="20260225124500 +0200" stop="20260225133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
     <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260225130000 +0200" stop="20260225140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Leadership</title>
-    <desc lang="en">The segment discusses the definition and the criteria of a good leader, and the difference between a good leader and a bad one. Leadership segment is broadcasted every Monday at Alive.</desc>
   </programme>
   <programme start="20260225133000 +0200" stop="20260225150000 +0200" channel="lbcinternational.lb">
     <title lang="en">Akram mn Meen</title>
@@ -1076,13 +712,13 @@
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
+  <programme start="20260225213000 +0200" stop="20260225223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
   <programme start="20260225222000 +0200" stop="20260225232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Lobby El Gharam</title>
     <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
-  </programme>
-  <programme start="20260225223000 +0200" stop="20260225233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
   <programme start="20260225223000 +0200" stop="20260225233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -1136,21 +772,9 @@
     <title lang="en">Catchy Talk</title>
     <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
   </programme>
-  <programme start="20260226083500 +0200" stop="20260226091500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Up to Date</title>
-    <desc lang="en">Daily hottest news in Lebanon and around the world from Monday to Friday at 8:30 am.</desc>
-  </programme>
-  <programme start="20260226091500 +0200" stop="20260226093000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Get Fit</title>
-    <desc lang="en">Get ready to our exciting sports classes every Monday, Wednesday and Saturday.</desc>
-  </programme>
-  <programme start="20260226093000 +0200" stop="20260226095000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Family</title>
-    <desc lang="en">A beautiful segment that deals with all family related issues : from pregnancy to delivery, to education, choosing the best day care, the best school... again, experts in different fields. Family is broadcasted from Monday to Thursday at 9:30 am.</desc>
-  </programme>
-  <programme start="20260226095000 +0200" stop="20260226102000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Eat Smart</title>
-    <desc lang="en">Randa Fahed and Nathalie Yaghi will give us tips on how to cook a lighter version of a recipe. Also, they will be giving viewers tips on how to have a more balanced diet, whether to be healthier or to lose weight. Don&apos;t miss Eat Smart from Monday to Saturday at 9:45 am.</desc>
+  <programme start="20260226083500 +0200" stop="20260226140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
   </programme>
   <programme start="20260226095500 +0200" stop="20260226100000 +0200" channel="lbcinternational.lb">
     <title lang="en">Yawmiyeh</title>
@@ -1160,41 +784,13 @@
     <title lang="en">Ser W Adar</title>
     <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
-  <programme start="20260226102000 +0200" stop="20260226104000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Nature</title>
-    <desc lang="en">Nature is the &quot;Green&quot; segment of MTV Alive; in addition to ecological and environmental advice, Marc Beyrouti will give you tips on keeping your garden and your indoor plants blooming all through the year every Tuesday, Thursday and Saturday at 10:15 am.</desc>
-  </programme>
-  <programme start="20260226104000 +0200" stop="20260226110000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Spotlight is a variety segment that sheds the light on the latest artistic and cultural news from Lebanon and around the world, discussing topics from celebrity news to music, cinema, theatre and TV series, hosted by Rana Astih and broadcasted every Thursday at 10:45 am.</desc>
-  </programme>
   <programme start="20260226104500 +0200" stop="20260226114500 +0200" channel="lbcinternational.lb">
     <title lang="en">Al Sabe&apos;e</title>
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
   </programme>
-  <programme start="20260226110000 +0200" stop="20260226113500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Etiquette</title>
-    <desc lang="en">Manners, proper etiquette some would say, may be one of the top lessons all of us need to learn. Etiquette with Nadine Daher is broadcasted every Tuesday and Thursday at 10:30 am.</desc>
-  </programme>
-  <programme start="20260226113500 +0200" stop="20260226115500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Happening</title>
-    <desc lang="en">The segment talks about cultural, social and artistic events held in Lebanon</desc>
-  </programme>
   <programme start="20260226114500 +0200" stop="20260226123000 +0200" channel="lbcinternational.lb">
     <title lang="en">Arous Beirut</title>
     <desc lang="en">Arous Beirut</desc>
-  </programme>
-  <programme start="20260226115500 +0200" stop="20260226120500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Sante</title>
-    <desc lang="en">Sante is a medical magazine that sheds the light every day on a new medical condition. A medical expert in every field will explain the reasons behind a medical problem, its symptoms and its remedies, while answering viewers&apos; live phone calls from Monday to Friday at 12 pm.</desc>
-  </programme>
-  <programme start="20260226120500 +0200" stop="20260226121500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Beauty by Leila Obeid</title>
-    <desc lang="en">The Beauty specialsist Layla Obeid is ready to answer your questions and give you her beauty tips every Tuesday and Thursday at noon.</desc>
-  </programme>
-  <programme start="20260226121500 +0200" stop="20260226125500 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Live in Style</title>
-    <desc lang="en">Live in Style</desc>
   </programme>
   <programme start="20260226123000 +0200" stop="20260226124500 +0200" channel="lbcinternational.lb">
     <title lang="en">Loto</title>
@@ -1203,18 +799,6 @@
   <programme start="20260226124500 +0200" stop="20260226133000 +0200" channel="lbcinternational.lb">
     <title lang="en">Nightly News Bulletin</title>
     <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
-  </programme>
-  <programme start="20260226125500 +0200" stop="20260226130000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Made in Lebanon</title>
-    <desc lang="en">The initiative of this segment is to market Lebanese products that are actually made and produced locally. We want to focus on small businesses, Lebanese designers ,and new talents made in Lebanon. The segment is hosted by Pamela Fannoun and is broadcasted every Saturday at 10:00.</desc>
-  </programme>
-  <programme start="20260226130000 +0200" stop="20260226133000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">Bel Lebneneh</title>
-    <desc lang="en">Segment related to Lebanese heritage and roots; folklore, traditions, old villages, wise sayings, Lebanese poetry (Zajal), origin of Lebanese words, Lebanese food, must-visit destinations. It mainly aims to promote Lebanon’s tourism and it is broadcasted every Thursday at 12:30 pm.</desc>
-  </programme>
-  <programme start="20260226133000 +0200" stop="20260226140000 +0200" channel="mtvlebanon.lb">
-    <title lang="en">My Rights</title>
-    <desc lang="en">This segment discusses legal issues and helps the Lebanese citizen learn about his/her rights under the difficult circumstances he/she is living in. My rights is presented every Saturday at 10:30 am.</desc>
   </programme>
   <programme start="20260226133000 +0200" stop="20260226150000 +0200" channel="lbcinternational.lb">
     <title lang="en">Akram mn Meen</title>
@@ -1284,13 +868,13 @@
     <title lang="en">Al Ameel</title>
     <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
   </programme>
+  <programme start="20260226213000 +0200" stop="20260226223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
   <programme start="20260226222000 +0200" stop="20260226232000 +0200" channel="mtvlebanon.lb">
     <title lang="en">Lobby El Gharam</title>
     <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
-  </programme>
-  <programme start="20260226223000 +0200" stop="20260226233000 +0200" channel="lbcinternational.lb">
-    <title lang="en">Ser W Adar</title>
-    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
   </programme>
   <programme start="20260226223000 +0200" stop="20260226233000 +0200" channel="lbcinternational.lb">
     <title lang="en">Ser W Adar</title>
@@ -1305,6 +889,154 @@
     <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
   </programme>
   <programme start="20260226235900 +0200" stop="20260227005900 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">Midnight News</desc>
+  </programme>
+  <programme start="20260227001500 +0200" stop="20260227010000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Arous Beirut</title>
+    <desc lang="en">Arous Beirut</desc>
+  </programme>
+  <programme start="20260227010000 +0200" stop="20260227030000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Shams Al Sabah</title>
+    <desc lang="en">Program covering various health topics, focusing on the latest fashion and beauty trends, and featuring cultural, social, political, economic, and sports segments with experts and specialists who discuss various issues that touch viewers&apos; interests in various aspects of life.</desc>
+  </programme>
+  <programme start="20260227030000 +0200" stop="20260227043000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Nharkom Said</title>
+    <desc lang="en">A daily morning talk show magazine that highlights political and security developments through hosting politicians, analysts and civil society activists.</desc>
+  </programme>
+  <programme start="20260227043000 +0200" stop="20260227070000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Morning Talk</title>
+    <desc lang="en">A new morning talk show aired everyday. It offers a thoughtful and insightful source of news and information to our daily audience and it highlights the achievements of Lebanese people around the world.</desc>
+  </programme>
+  <programme start="20260227070000 +0200" stop="20260227073000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Video Clips</title>
+    <desc lang="en">The program Video clips includes a huge range of the newest video clipsof your favorite singers.</desc>
+  </programme>
+  <programme start="20260227073000 +0200" stop="20260227080000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Press Review</title>
+    <desc lang="en">Daily roundup of major newspaper headlines and stories of the day.</desc>
+  </programme>
+  <programme start="20260227073000 +0200" stop="20260227080000 +0200" channel="lbcinternational.lb">
+    <title lang="en">2:30pm news</title>
+    <desc lang="en">A quick review of local and international events produced by LBCI hub at 2:30 PM.</desc>
+  </programme>
+  <programme start="20260227080000 +0200" stop="20260227083500 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Morning News</title>
+    <desc lang="en">Start your day with all the important developments through the morning bulletin</desc>
+  </programme>
+  <programme start="20260227080000 +0200" stop="20260227100000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Catchy Talk</title>
+    <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
+  </programme>
+  <programme start="20260227083500 +0200" stop="20260227140000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">ALIVE</title>
+    <desc lang="en">A vibrant morning format with dynamic segments, guests, and daily inspiration.</desc>
+  </programme>
+  <programme start="20260227100000 +0200" stop="20260227104500 +0200" channel="lbcinternational.lb">
+    <title lang="en">Ser W Adar</title>
+    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260227104500 +0200" stop="20260227114500 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Sabe&apos;e</title>
+    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
+  </programme>
+  <programme start="20260227114500 +0200" stop="20260227124500 +0200" channel="lbcinternational.lb">
+    <title lang="en">Arous Beirut</title>
+    <desc lang="en">Arous Beirut</desc>
+  </programme>
+  <programme start="20260227124500 +0200" stop="20260227133000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Nightly News Bulletin</title>
+    <desc lang="en">A full recap of the political, security and social events in Lebanon and the world produced by LBCI news hub in an evening news bulletin at 8 o&apos;clock</desc>
+  </programme>
+  <programme start="20260227133000 +0200" stop="20260227150000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Akram mn Meen</title>
+    <desc lang="en">An entertainment program that includes competitions, challenges, prizes and gifts. Will air daily during the holy month of Ramadan with Wissam Hanna.</desc>
+  </programme>
+  <programme start="20260227140000 +0200" stop="20260227150000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Midday News</title>
+    <desc lang="en">The midday bulletin that keeps you up to date on all political, social, economic and sport events</desc>
+  </programme>
+  <programme start="20260227150000 +0200" stop="20260227163000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Beirut Al Yawm</title>
+    <desc lang="en">Daily political roundup with guests that give you the hour&apos;s latest news</desc>
+  </programme>
+  <programme start="20260227150000 +0200" stop="20260227160000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
+  <programme start="20260227160000 +0200" stop="20260227165900 +0200" channel="lbcinternational.lb">
+    <title lang="en">Ser W Adar</title>
+    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260227163000 +0200" stop="20260227171500 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Salon Zahra</title>
+    <desc lang="en">تدور أحداث الجزء الأول من &quot;صالون زهرة&quot; في حيٍّ شعبي تفتتح فيه &quot;زهرة&quot;، التي تلعب دورها الممثلة نادين نسيب نجيم، صالوناً للتجميل يُمنع دخول الرجال إليه ليكون مكاناً تجتمع فيه سيدات الحي ليتبادلن الأحاديث والأسرار، لكن وصول دفعة من الكراسي إلى الصالون عن طريق الخطأ تغير كل شيء وتقلب حياة &quot;زهرة&quot; رأساً على عقب.</desc>
+  </programme>
+  <programme start="20260227170000 +0200" stop="20260227180000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Sabe&apos;e</title>
+    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
+  </programme>
+  <programme start="20260227171500 +0200" stop="20260227173000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">AL Tuffah Al Haram</title>
+    <desc lang="en">مسلسل &quot;التفاح الحرام&quot; (Yasak Elma) هو دراما تركية اجتماعية شهيرة تدور أحداثها في إسطنبول، تركز على الصراع بين الحب والطموح والثراء. تدور القصة حول &quot;يلديز&quot; وشقيقتها &quot;زينب&quot; اللتين تعيشان حياة مختلفة وتتداخل حياتهما مع شخصيات ثرية مثل &quot;خالد أرغون&quot; و&quot;أندر&quot;، حيث تتشابك المؤامرات والمكائد عبر مواسمه الستة.</desc>
+  </programme>
+  <programme start="20260227173000 +0200" stop="20260227180000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Aa Awlet l Matal</title>
+    <desc lang="en">Aa Awlet l Matal is a daily program aired during the month of Ramadan. In each episode, it highlights a well-known traditional proverb, explaining its meaning, origins, and story, and connects it to our present-day reality in a simple and relatable way. The program aims to revive traditional proverbs and showcase their wisdom by presenting real-life examples that reflect their continued influence on our daily lives.</desc>
+  </programme>
+  <programme start="20260227180000 +0200" stop="20260227184500 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Al Nesyan</title>
+    <desc lang="en">تدور الأحداث حول زوجين يعيشان حياة سعيدة برفقة ولديهما، إلى حين وقوع حادث يقلب حياتهم رأسًا على عقب، حيث يُختطف ابنيهما فيحاولان البحث عنهما لإعادة لم شمل الأسرة من جديد.</desc>
+  </programme>
+  <programme start="20260227180000 +0200" stop="20260227200000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Catchy Talk</title>
+    <desc lang="en">Program that keeps up with the latest trends and celebrity news in Lebanon and the world, and presents various life, social, and beauty topics through various segments, in addition to a kitchen segment.</desc>
+  </programme>
+  <programme start="20260227184500 +0200" stop="20260227200000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Farid</title>
+    <desc lang="en">The Turkish series &quot;Ferid&quot; (dubbed) follows the story of a reckless young man, the grandson of Khalis Agha, a prominent figure in Antep. Due to his bad behavior, the grandfather decides to marry him off to Serin, a well-respected girl, sparking thrilling and intriguing events.</desc>
+  </programme>
+  <programme start="20260227200000 +0200" stop="20260227203000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Prime Time News</title>
+    <desc lang="en">The evening bulletin that provides you with a complete news roundup of the day in reports and fixed segments</desc>
+  </programme>
+  <programme start="20260227200000 +0200" stop="20260227213000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Akram mn Meen</title>
+    <desc lang="en">An entertainment program that includes competitions, challenges, prizes and gifts. Will air daily during the holy month of Ramadan with Wissam Hanna.</desc>
+  </programme>
+  <programme start="20260227203000 +0200" stop="20260227213000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Bel Haram</title>
+    <desc lang="en">وسط أضواء المسرح الجوال وخلف كواليسه المتهالكة، تضرب المأساة عالم &quot;جود&quot; الصغير، لتجد نفسها وحيدة في مواجهة ماضٍ مثخن بالجراح وحاضرٍ لا يرحم. ومع كل عرضٍ تقدمه الفرقة، تتشابك خيوط الخسارة مع البحث عن عدالة غائبة، في رحلة محفوفة بالمخاطر لكشف حقيقةٍ مدفونة كانت أشد قسوة وخطورة مما تخيلت. هل ينجح سحر المسرح في تضميد جراحها، أم أن الستار سيسدل على حقيقة تنهي كل آمالها؟</desc>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227222000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Mouhafaza 15</title>
+    <desc lang="en">Beneath a sky weighed down by crisis, the stories of the Lebanese intertwine with the sorrow of Syrian refugees in a human saga that reveals the harshness of today’s challenges. The events boldly portray the pain of poverty, the struggle to</desc>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227223000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Ameel</title>
+    <desc lang="en">A drama series full of suspense and mystery, the story revolves around the brothers Amir and Wissam, who were separated since childhood. Later, Captain Amir joins a dangerous gang, revealing many complex secrets and facts.</desc>
+  </programme>
+  <programme start="20260227222000 +0200" stop="20260227232000 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Lobby El Gharam</title>
+    <desc lang="en">In the corridors of a bustling hotel that never sleeps, Rustam’s relentless precision collides with Shams’s stubborn resolve, a designer fleeing the confines of marriage. Amid endless weddings, eccentric guests, and unexpected twists, chaos and laughter give rise to an extraordinary love story.</desc>
+  </programme>
+  <programme start="20260227223000 +0200" stop="20260227233000 +0200" channel="lbcinternational.lb">
+    <title lang="en">Ser W Adar</title>
+    <desc lang="en">A social drama series that reflects stories that take place in society, starring the late Fady Ibrahim, Peter Semaan, Rahaf Abdallah, Wafaa Tarabay, Katia Kaady, Natalie Hamawi and other stars.</desc>
+  </programme>
+  <programme start="20260227232000 +0200" stop="20260227235900 +0200" channel="mtvlebanon.lb">
+    <title lang="en">Enta W 7azzak Bi Ramadan</title>
+    <desc lang="en">Enta w Hazzak Bi Ramadan&quot; is an entertaining Ramadan competition show, presented by Elie Chemaly. It features a live audience, thrilling contests, and interactive phone calls, allowing viewers to participate from home. The program offers valuable prizes and significant cash rewards to the winners. Adding to the surprises, a celebrity guest joins the show every day</desc>
+  </programme>
+  <programme start="20260227233000 +0200" stop="20260228001500 +0200" channel="lbcinternational.lb">
+    <title lang="en">Al Sabe&apos;e</title>
+    <desc lang="en">Conflicts arise between Abi Jaber and Aziz families over money, wealth and influence, and the pace of events escalates after a tragic incident that makes revenge the only way to change the course of the story.</desc>
+  </programme>
+  <programme start="20260227235900 +0200" stop="20260228005900 +0200" channel="mtvlebanon.lb">
     <title lang="en">Midnight News</title>
     <desc lang="en">Midnight News</desc>
   </programme>
