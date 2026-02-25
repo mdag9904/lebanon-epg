@@ -3,10 +3,60 @@ import { DateTime } from "luxon";
 const BASE = "https://www.mtv.com.lb/en/api/schedule";
 const ZONE = "Asia/Beirut";
 
-async function fetchJson(url) {
-  const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
-  if (!res.ok) throw new Error(`MTV fetch failed: ${res.status} ${res.statusText} (${url})`);
-  return res.json();
+const RETRY_STATUSES = new Set([429, 500, 502, 503, 504]);
+
+async function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+async function fetchJson(url, { retries = 4, timeoutMs = 15000 } = {}) {
+  let lastErr;
+
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const controller = new AbortController();
+    const t = setTimeout(() => controller.abort(), timeoutMs);
+
+    try {
+      const res = await fetch(url, {
+        headers: { "User-Agent": "Mozilla/5.0" },
+        signal: controller.signal
+      });
+
+      if (!res.ok) {
+        const msg = `MTV fetch failed: ${res.status} ${res.statusText} (${url})`;
+
+        if (RETRY_STATUSES.has(res.status) && attempt < retries) {
+          const backoff = 600 * Math.pow(2, attempt) + Math.floor(Math.random() * 250);
+          console.warn(
+            `[MTV] ${msg} — retrying in ${backoff}ms (attempt ${attempt + 1}/${retries})`
+          );
+          await sleep(backoff);
+          continue;
+        }
+
+        throw new Error(msg);
+      }
+
+      return await res.json();
+    } catch (e) {
+      lastErr = e;
+
+      if (attempt < retries) {
+        const backoff = 600 * Math.pow(2, attempt) + Math.floor(Math.random() * 250);
+        console.warn(
+          `[MTV] ${String(e)} — retrying in ${backoff}ms (attempt ${attempt + 1}/${retries})`
+        );
+        await sleep(backoff);
+        continue;
+      }
+
+      throw lastErr;
+    } finally {
+      clearTimeout(t);
+    }
+  }
+
+  throw lastErr ?? new Error(`MTV fetch failed (${url})`);
 }
 
 /**
@@ -57,11 +107,12 @@ export async function getMtvScheduleForDayId(dayId) {
 /**
  * Build programme items for the next N days, using weekday mapping.
  * MTV items only have start times; we infer stop as next start, else +60 min fallback.
+ *
+ * Change: if a given day endpoint fails (e.g. 500), we skip that day instead of failing the build.
  */
 export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
   const dayMap = await getMtvDayMap();
 
-  // Map Luxon weekday (1=Mon..7=Sun) to the MTV dayId
   const weekdayToTitle = {
     1: "Monday",
     2: "Tuesday",
@@ -82,10 +133,17 @@ export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
 
     if (!dayId) continue;
 
-    const items = await getMtvScheduleForDayId(dayId);
+    let items;
+    try {
+      items = await getMtvScheduleForDayId(dayId);
+    } catch (e) {
+      console.warn(
+        `[MTV] Failed day fetch for ${title} (dayId=${dayId}). Skipping day. Error: ${String(e)}`
+      );
+      continue;
+    }
 
-    // Normalise into { startDT, title, desc }
-    const parsed = items
+    const parsed = (Array.isArray(items) ? items : [])
       .map((it) => {
         const raw = (it.Time ?? "").trim(); // e.g. "07:30"
         const m = raw.match(/^(\d{1,2}):(\d{2})/);
@@ -96,6 +154,7 @@ export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
 
         const startDT = date.set({ hour: hh, minute: mm, second: 0, millisecond: 0 });
         const p = it.Program ?? {};
+
         return {
           startDT,
           title: p.Name ?? "Unknown",
@@ -109,7 +168,6 @@ export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
       const cur = parsed[idx];
       const next = parsed[idx + 1];
 
-      // Stop = next start, else +60 minutes fallback
       const stopDT = next ? next.startDT : cur.startDT.plus({ minutes: 60 });
 
       programmes.push({
@@ -127,8 +185,7 @@ export async function buildMtvProgrammes({ channelId, daysAhead = 7 }) {
 }
 
 function toXmltvTimestamp(dt) {
-  // XMLTV: YYYYMMDDHHMMSS +ZZZZ (no colon in offset)
   const base = dt.toFormat("yyyyMMddHHmmss");
-  const off = dt.toFormat("ZZ").replace(":", ""); // +02:00 -> +0200
+  const off = dt.toFormat("ZZ").replace(":", "");
   return `${base} ${off}`;
 }
