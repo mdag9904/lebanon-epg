@@ -22,9 +22,21 @@ const CHANNELS = [
 ];
 
 async function main() {
-  // Build programmes
-  const mtv = await buildMtvProgrammes({ channelId: "mtvlebanon.lb", daysAhead: 7 });
-  const lbc = await buildLbcProgrammes({ channelId: "lbcinternational.lb", daysAhead: 7, channelNum: 1 });
+  // Don’t let one source outage break the whole build.
+  const [mtvRes, lbcRes] = await Promise.allSettled([
+    buildMtvProgrammes({ channelId: "mtvlebanon.lb", daysAhead: 7 }),
+    buildLbcProgrammes({ channelId: "lbcinternational.lb", daysAhead: 7, channelNum: 1 })
+  ]);
+
+  const mtv = mtvRes.status === "fulfilled" ? mtvRes.value : [];
+  const lbc = lbcRes.status === "fulfilled" ? lbcRes.value : [];
+
+  if (mtvRes.status === "rejected") {
+    console.warn(`[BUILD] MTV failed: ${String(mtvRes.reason)} (continuing with LBC only)`);
+  }
+  if (lbcRes.status === "rejected") {
+    console.warn(`[BUILD] LBC failed: ${String(lbcRes.reason)} (continuing with MTV only)`);
+  }
 
   const programmes = [...mtv, ...lbc].sort((a, b) => a.start.localeCompare(b.start));
 
